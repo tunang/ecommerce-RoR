@@ -3,7 +3,7 @@ source "https://rubygems.org"
 # Bundle edge Rails instead: gem "rails", github: "rails/rails", branch: "main"
 gem "rails", "~> 8.0.2"
 gem 'pg', '~> 1.5'
-gem "bcrypt", "3.1.18"
+gem "bcrypt", "3.1.20"
 gem "tailwindcss-rails"
 gem 'rails_live_reload', group: :development
 
