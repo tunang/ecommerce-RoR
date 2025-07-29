@@ -7,6 +7,8 @@ An Commerce bookstore built with Ruby on Rails, featuring admin-only product man
 - Ruby 3.2+
 - Rails 8+
 - PostgreSQL or SQLite (default: SQLite)
+- Nodejs
+- Npm
 
 ## Setup
 
@@ -40,6 +42,8 @@ An Commerce bookstore built with Ruby on Rails, featuring admin-only product man
 - **Devise:** For authentication
 - **Pundit:** For authorization
 - **Hotwire:** For modern, reactive UI
+- **ReactJS:** For modern, reactive UI
+- **Kaminari:** For pagination
 
 ## Deployment
 
